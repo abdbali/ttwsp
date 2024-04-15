@@ -9,8 +9,8 @@ MKS Robin Wi-fi ESP8266 12S modülünü devre şenasında görüldüğü, yeşil
 <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.tr%2FUzaktan-Kumanda-Kablosuz-Y%25C3%25B6nlendirici-Kararl%25C4%25B1l%25C4%25B1k%2Fdp%2FB0CT5CFDCB&psig=AOvVaw2U8WrgPu7zzc_PbsxvNtQP&ust=1713249801998000&source=images&cd=vfe&opi=89978449&ved=0CBUQ3YkBahcKEwjo7b6Az8OFAxUAAAAAHQAAAAAQBA">Amazon</a>
 <h2>Yazılım ve güncelleme</h2>
 <p>Bağlatıda ki zip dosyasını indirin ve sd card içine kopyalayın.</p>
-<a>https://github.com/makerbase-mks/MKS-WIFI/tree/master/firmware_release</a>
-
+<a></a>
+<a[href="https://github.com/makerbase-mks/MKS-WIFI/tree/master/firmware_release"></a>
 <p>SD card'ı yuvaya yerleştirip cihazı açın,</p>
 <p>Updating wifi model firmware yazısını gördükten sonra kısa bir süre beklemeniz gerekecek</p>
 
