@@ -16,3 +16,22 @@ MKS Robin Wi-fi ESP8266 12S modülünü devre şenasında görüldüğü, yeşil
 
 <h2>Wi-fi bağlanma</h2>
 <p>Cihaz ekranından "settings" "ayarlar" menüsüne girip wi-fi seçin, ağ ismi ve parola ile giriş yapın.</p>
+<p>Yazıcı üzerindeki IP adresini web tarayıcısına girerek bağlantı kontrolünü sağlıyoruz.</p>
+<p>Donanım ve wi-fi kurulumu tamamlandığına göre CURA entegrasyonu için aşağıdaki bağlantıda bulkunan dosyayı indiriyoruz.</p>
+
+<a href="https://codeload.github.com/makerbase-mks/mks-wifi-plugin/zip/master">Wi-fi Plugin</a>
+
+<p>Dosyayı "C:\Program Files\UltiMaker Cura 5.4.0\share\cura\plugins" adresine kopyalıyoruz. </p>
+<p>CURA uygulamasını açıp, Tercihler > Yapılandır > Yazıcılar > MKSWİFİ adımlarını izliyoruz.</p>
+
+<img src="https://r.resimlink.com/IGOkxT6.png" width="300" height="250" alt="">
+
+<p>Karşımıza çıkan ekrana yazıcı üzeirndeki IP adresini giriyoruz.</p>
+<p>Bağlantı hazır olduğunda karşımıza yazıcının durumunu gösteren bir ekran modülü açılacaktır.</p>
+<img src="https://r.resimlink.com/Sm59dYR.png" width="300" height="250" alt="">
+
+
+<p>Yazıcı wi-fi ile kullanıma hazır, ilk baskılarınızı kontrollü almanız önemlidir.</p>
+
+73
+
