@@ -3,4 +3,4 @@
 <h2>Donanımlar ve bağlantılar</h2>
 <p>MKS Robin WIFI Modülü Kurulumu</p>
 #
-<img src="[resim yolu](https://www.ileri3d.com/Images/Urun/24102021142358.jpeg)" alt="">
+<img src="https://www.ileri3d.com/Images/Urun/24102021142358.jpeg" alt="">
